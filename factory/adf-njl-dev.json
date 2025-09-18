@@ -1,5 +1,5 @@
 {
-	"name": "adf-njl-dev",
+	"name": "adf-njl-dev1",
 	"properties": {
 		"globalParameters": {
 			"GL_KV_NAME": {
@@ -8,10 +8,10 @@
 			}
 		}
 	},
-	"location": "eastus",
+	"location": "South India",
 	"identity": {
 		"type": "SystemAssigned",
 		"principalId": "d4d4dd66-94a0-444d-bb64-1f5ea75ed563",
-		"tenantId": "2aa8e0e2-e629-4970-b9d6-d534a9ac3386"
+		"tenantId": "425b47a2-2c2c-4d1c-937b-5492f8acb96e"
 	}
 }
